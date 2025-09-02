@@ -1,0 +1,45 @@
+site_name: Multi-Indicator, Small Area Estimation Resource
+site_url: http://sae4healthGates.com
+theme:
+  name: material
+  custom_dir: overrides/landing_page
+
+  features:
+  - navigation.indexes
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.tracking
+  - navigation.top
+  - navigation.instant
+  - navigation.instant.progress
+  - search.highlight
+  - search.share
+  - search.suggest
+
+extra:
+  hide:
+    - toc
+
+
+nav:
+  - Home: index.md
+  - Nigeria: 
+    - Overview: country_selection/Nigeria/nigeria.md
+    - DTP 3 vaccination: country_selection/Nigeria/CH_VACC_C_DP3.md
+  - Rwanda: 
+    - Overview: country_selection/rwanda.md
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html
+
+extra_css:
+  - assets/stylesheets/custom.css
+  - overrides/extra.css
+  - stylesheets/extra.css
