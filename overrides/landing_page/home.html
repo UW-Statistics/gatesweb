@@ -11,8 +11,19 @@
 <style>
   .md-main { flex-grow: 0 }
   .md-main__inner { display: flex; height: 100%; }
-  .tx-container-first { background: linear-gradient(to bottom, var(--md-primary-fg-color), rgb(153, 213, 104) 100%) }
-  .tx-container-second { background: linear-gradient(to bottom, rgb(153, 213, 104), var(--md-primary-fg-color) 100%) }
+  /*.tx-container-first { background: linear-gradient(to bottom, var(--md-primary-fg-color), rgb(153, 213, 104) 100%) }
+  .tx-container-second { background: linear-gradient(to bottom, rgb(153, 213, 104), var(--md-primary-fg-color) 100%) }*/
+
+  .tx-container-first h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-left: 10%;
+  }
+
+  .tx-container-first div {
+    font-size: 18px;
+    margin-left: 10%;
+  }
 
   .tx-hero {
     margin: 32px 2.8rem;
@@ -20,7 +31,7 @@
     justify-content: center;
     text-align: center;
   }
-  .tx-hero h1 { font-weight: 700; margin-bottom: 1rem; color: blueviolet}
+  .tx-hero h1 { font-weight: 700; margin-bottom: 1rem;}
   .tx-hero p { font-size: 1.2em; color: #444; }
 </style>
 {% endblock %}
@@ -29,15 +40,8 @@
 {{ super() }}
 
 <section class="tx-container-first" style="margin: 0; padding: 0">
-  <div style="position: relative; width: 100%; height: auto;">
-    <img src="{{ 'assets/images/homepage.png' | url }}" style="width: 100%; height: 600px">
-  </div>
-
-  <div class="mdx-hero__inner" style="padding: 20px">
-    <div class="tx-hero">
-      <h1>Welcome to SAE4Health Gates</h1>
-    </div>
-  </div>
+  <h1>Welcome to SAE4Health</h1>
+  <div>This site gathers and display small area estimation result visualizations from SurveyPrev. </div>
 </section>
 
 <section class="tx-container-second">
@@ -45,30 +49,24 @@
     <div class="md-content__inner">
       <div class="mdx-expect">
         <ul class="mdx-expect__list">
-          <li class="mdx-expect__item md-typeset">
-            <div class="mdx-expect__description">
-              <h2>Statistical Rigor</h2>
-              <p>Accurately characterizing uncertainty in small area estimation.</p>
-            </div>
-          </li>
-          <li class="mdx-expect__item md-typeset">
-            <div class="mdx-expect__description">
-              <h2>Accessible Analysis</h2>
-              <p>Making statistical methods approachable and practical.</p>
-            </div>
-          </li>
-          <li class="mdx-expect__item md-typeset">
-            <div class="mdx-expect__description">
-              <h2>Creative Visualization</h2>
-              <p>Turning data into actionable insights with interactive graphics.</p>
-            </div>
-          </li>
-          <li class="mdx-expect__item md-typeset">
-            <div class="mdx-expect__description">
-              <h2>Collaborative Ecosystem</h2>
-              <p>Building a global network of partnerships and shared knowledge.</p>
-            </div>
-          </li>
+          <a href="{{ 'country_selection/Nigeria/nigeria/' | url }}" class="mdx-expect__link">
+            <li
+                style="background: url('{{ 'assets/images/flags/NGA.png' | url }}') center/cover no-repeat;
+                color: white; text-align: center; padding: 40px;">
+              <div class="mdx-expect__description">
+                <h2>Nigeria</h2>
+              </div>
+            </li>
+          </a>
+          <a href="{{ 'country_selection/Rwanda/' | url }}" class="mdx-expect__link">
+            <li
+                style="background: url('{{ 'assets/images/flags/RWA.png' | url }}') center/cover no-repeat;
+                color: white; text-align: center; padding: 40px;">
+              <div class="mdx-expect__description">
+                <h2>Rwanda</h2>
+              </div>
+            </li>
+          </a>
         </ul>
       </div>
     </div>
