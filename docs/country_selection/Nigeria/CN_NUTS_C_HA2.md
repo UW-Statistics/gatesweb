@@ -4,7 +4,7 @@ hide:
 ---
 # Stunting rate
 
-This Indicator represents the percentage of children 12-23 months who had received DPT 3 vaccination
+This Indicator represents the percentage of children stunted (below -2 SD of height for age according to the WHO standard)
 
 ## Prevalance map
 

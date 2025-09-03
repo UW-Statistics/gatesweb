@@ -4,7 +4,7 @@ hide:
 ---
 # Percent of women who own a mobile phone
 
-This Indicator represents the percentage of children 12-23 months who had received DPT 3 vaccination
+Percentage of women who own a mobile phone
 
 ## Prevalance map
 

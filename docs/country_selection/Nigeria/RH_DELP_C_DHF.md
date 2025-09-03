@@ -2,9 +2,9 @@
 hide:
     - toc
 ---
-# Place of Delivery: Health Facility
+# Place of Delivery: Health Facility+
 
-This Indicator represents the percentage of children 12-23 months who had received DPT 3 vaccination
+This Indicator represents the percentage of live births (or stillbirths) in the two (or three/five) years preceding the survey delivered at a health facility.
 
 ## Prevalance map
 

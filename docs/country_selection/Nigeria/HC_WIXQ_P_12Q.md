@@ -4,7 +4,7 @@ hide:
 ---
 # Percent of Population in Lowest Two Wealth Quintiles
 
-This Indicator represents the percentage of children 12-23 months who had received DPT 3 vaccination
+This Indicator represents the percent of population in lowest two wealth quintiles
 
 ## Prevalance map
 

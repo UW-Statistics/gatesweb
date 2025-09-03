@@ -4,7 +4,7 @@ hide:
 ---
 # MCV 1 Vaccine Coverage
 
-This Indicator represents the percentage of children 12-23 months who had received MCV vaccination
+This Indicator represents the percentage of children 12-23 months who had received Measles vaccination
 
 ## Prevalance map
 

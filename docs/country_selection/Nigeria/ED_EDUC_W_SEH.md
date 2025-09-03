@@ -4,8 +4,7 @@ hide:
 ---
 # Percent of Women With Secondary or Higher Education
 
-This Indicator represents the percentage of children 12-23 months who had received DPT 3 vaccination
-
+This Indicator represents the percentage of women who have received secondary or higher education
 ## Prevalance map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">

@@ -4,7 +4,7 @@ hide:
 ---
 # Children who received no vaccinations
 
-This Indicator represents the percentage of children 12-23 months who had received DPT 3 vaccination
+This Indicator represents the percentage of children 12-23 months who had received no vaccinations
 
 ## Prevalance map
 
