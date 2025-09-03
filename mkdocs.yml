@@ -25,7 +25,20 @@ nav:
   - Home: index.md
   - Nigeria: 
     - Overview: country_selection/Nigeria/nigeria.md
-    - DTP 3 vaccination: country_selection/Nigeria/CH_VACC_C_DP3.md
+    - DTP 3 Vaccination: country_selection/Nigeria/CH_VACC_C_DP3.md
+    - MCV 1 Vaccination: country_selection/Nigeria/CH_VACC_C_MSL.md
+    - Received No Vaccination: country_selection/Nigeria/CH_VACC_C_NON.md
+    - Stunting Rate: country_selection/Nigeria/CN_NUTS_C_HA2.md
+    - Child Wasting: country_selection/Nigeria/CN_NUTS_C_WH2.md
+    - Children Under 5 Slept Under Bednet: country_selection/Nigeria/CO_MOBB_W_MOB.md
+    - Women with Secondary+ Education: country_selection/Nigeria/ED_EDUC_W_SEH.md
+    - Women Who Are Literate: country_selection/Nigeria/ED_LITR_W_LIT.md
+    - Family Planning - Ever Used Modern Method: country_selection/Nigeria/FP_EVUM_W_MOD.md
+    - Households with Improved Drinking Water: country_selection/Nigeria/HC_WIXQ_P_12Q.md
+    - Households with at Least One ITN: country_selection/Nigeria/ML_NETC_C_ITN.md
+    - Recent ANC 4+ Visits: country_selection/Nigeria/RH_ANCN_W_N4P.md
+    - Recent Delivery Assisted by Skilled Provider: country_selection/Nigeria/RH_DELA_C_SKP.md
+    - Recent Delivery in Health Facility: country_selection/Nigeria/RH_DELP_C_DHT.md
   - Rwanda: 
     - Overview: country_selection/rwanda.md
 
