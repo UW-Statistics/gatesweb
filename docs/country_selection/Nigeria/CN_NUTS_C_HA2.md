@@ -2,7 +2,7 @@
 hide:
     - toc
 ---
-# DTP3 Vaccination rate
+# Stunting rate
 
 This Indicator represents the percentage of children 12-23 months who had received DPT 3 vaccination
 

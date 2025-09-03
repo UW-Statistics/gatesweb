@@ -2,7 +2,7 @@
 hide:
     - toc
 ---
-# DTP3 Vaccination rate
+# At Least 4 Antenatal Care Visit
 
 This Indicator represents the percentage of children 12-23 months who had received DPT 3 vaccination
 
