@@ -25,22 +25,61 @@ nav:
   - Home: index.md
   - Nigeria: 
     - Overview: country_selection/Nigeria/nigeria.md
-    - DTP 3 Vaccination: country_selection/Nigeria/CH_VACC_C_DP3.md
-    - MCV 1 Vaccination: country_selection/Nigeria/CH_VACC_C_MSL.md
-    - Received No Vaccination: country_selection/Nigeria/CH_VACC_C_NON.md
-    - Stunting Rate: country_selection/Nigeria/CN_NUTS_C_HA2.md
-    - Child Wasting: country_selection/Nigeria/CN_NUTS_C_WH2.md
-    - Women with Mobile Phone: country_selection/Nigeria/CO_MOBB_W_MOB.md
-    - Women with Secondary+ Education: country_selection/Nigeria/ED_EDUC_W_SEH.md
-    - Women Literate: country_selection/Nigeria/ED_LITR_W_LIT.md
-    - Modern Contraceptive Rate: country_selection/Nigeria/FP_EVUM_W_MOD.md
-    - Population in Lowest two Wealth Quintiles: country_selection/Nigeria/HC_WIXQ_P_12Q.md
-    - Children slept under ITN: country_selection/Nigeria/ML_NETC_C_ITN.md
-    - 4+ ANC Visits: country_selection/Nigeria/RH_ANCN_W_N4P.md
-    - Delivery by Skilled Provider: country_selection/Nigeria/RH_DELA_C_SKP.md
-    - Delivery in Health Facility: country_selection/Nigeria/RH_DELP_C_DHF.md
+    - Child Health:
+      - DTP 3: country_selection/Nigeria/CH_VACC_C_DP3.md
+      - MCV 1: country_selection/Nigeria/CH_VACC_C_MSL.md
+      - No Vaccine: country_selection/Nigeria/CH_VACC_C_NON.md
+      - Stunting: country_selection/Nigeria/CN_NUTS_C_HA2.md
+      - Wasting: country_selection/Nigeria/CN_NUTS_C_WH2.md
+      - ITN: country_selection/Nigeria/ML_NETC_C_ITN.md
+    - Characteristics:
+      - Mobile Phone: country_selection/Nigeria/CO_MOBB_W_MOB.md
+      - Education: country_selection/Nigeria/ED_EDUC_W_SEH.md
+      - Literate: country_selection/Nigeria/ED_LITR_W_LIT.md
+      - MWRA: country_selection/Nigeria/FP_CUSM_W_MOD.md
+      - Wealth Quintiles: country_selection/Nigeria/HC_WIXQ_P_12Q.md
+    - Maternal Health:
+      - ANC Visits: country_selection/Nigeria/RH_ANCN_W_N4P.md
+      - Skilled Provider: country_selection/Nigeria/RH_DELA_C_SKP.md
+      - Health Facility: country_selection/Nigeria/RH_DELP_C_DHT.md
   - Rwanda: 
-    - Overview: country_selection/rwanda.md
+    - Overview: country_selection/Rwanda/rwanda.md
+    - Child Health:
+      - DTP 3: country_selection/Rwanda/CH_VACC_C_DP3.md
+      - MCV 1: country_selection/Rwanda/CH_VACC_C_MSL.md
+      - No Vaccine: country_selection/Rwanda/CH_VACC_C_NON.md
+      - Stunting: country_selection/Rwanda/CN_NUTS_C_HA2.md
+      - Wasting: country_selection/Rwanda/CN_NUTS_C_WH2.md
+      - ITN: country_selection/Rwanda/ML_NETC_C_ITN.md
+    - Characteristics:
+      - Mobile Phone: country_selection/Rwanda/CO_MOBB_W_MOB.md
+      - Education: country_selection/Rwanda/ED_EDUC_W_SEH.md
+      - Literate: country_selection/Rwanda/ED_LITR_W_LIT.md
+      - MWRA: country_selection/Rwanda/FP_CUSM_W_MOD.md
+      - Wealth Quintiles: country_selection/Rwanda/HC_WIXQ_P_12Q.md
+    - Maternal Health:
+      - 4+ ANC Visits: country_selection/Rwanda/RH_ANCN_W_N4P.md
+      - Delivery by Skilled Provider: country_selection/Rwanda/RH_DELA_C_SKP.md
+      - Delivery in Health Facility: country_selection/Rwanda/RH_DELP_C_DHT.md
+  - Senegal:
+    - Overview: country_selection/Senegal/senegal.md
+    - Child Health:
+      - DTP 3: country_selection/Senegal/CH_VACC_C_DP3.md
+      - MCV 1: country_selection/Senegal/CH_VACC_C_MSL.md
+      - No Vaccine: country_selection/Senegal/CH_VACC_C_NON.md
+      - Stunting: country_selection/Senegal/CN_NUTS_C_HA2.md
+      - Wasting: country_selection/Senegal/CN_NUTS_C_WH2.md
+      - ITN: country_selection/Senegal/ML_NETC_C_ITN.md
+    - Characteristics:
+      - Mobile Phone: country_selection/Senegal/CO_MOBB_W_MOB.md
+      - Education: country_selection/Senegal/ED_EDUC_W_SEH.md
+      - Literate: country_selection/Senegal/ED_LITR_W_LIT.md
+      - MWRA: country_selection/Senegal/FP_CUSM_W_MOD.md
+      - Wealth Quintiles: country_selection/Senegal/HC_WIXQ_P_12Q.md
+    - Maternal Health:
+      - 4+ ANC Visits: country_selection/Senegal/RH_ANCN_W_N4P.md
+      - Delivery by Skilled Provider: country_selection/Senegal/RH_DELA_C_SKP.md
+      - Delivery in Health Facility: country_selection/Senegal/RH_DELP_C_DHT.md
 
 markdown_extensions:
   - pymdownx.arithmatex:

@@ -28,14 +28,6 @@ This Indicator represents the percentage of children 12-23 months who had receiv
 <img src="../../../assets/images/NGA/CH_VACC_C_DP3_ridge_diff_adm1.png", style = "width: 550px; height: 1900px">
 
 </div>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
   <div style="font-size: 20px">Admin2 estimates in 2018</div>
