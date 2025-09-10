@@ -23,9 +23,9 @@ This Indicator represents the percent of population in lowest two wealth quintil
 </div>
 
 <div style="display: flex">
-<img src="../../../assets/images/RWA/HC_WIXQ_P_12Q_ridge_adm1.png", style = "width: 550px; height: 1900px">
+<img src="../../../assets/images/RWA/HC_WIXQ_P_12Q_ridge_adm1.png", style = "width: 550px; height: 400px">
 
-<img src="../../../assets/images/RWA/HC_WIXQ_P_12Q_ridge_diff_adm1.png", style = "width: 550px; height: 1900px">
+<img src="../../../assets/images/RWA/HC_WIXQ_P_12Q_ridge_diff_adm1.png", style = "width: 550px; height: 400px">
 
 </div>
 <div> </div>

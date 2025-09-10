@@ -22,9 +22,9 @@ This Indicator represents the percentage of children wasted (below -2 SD of weig
 </div>
 
 <div style="display: flex">
-<img src="../../../assets/images/RWA/CN_NUTS_C_WH2_ridge_adm1.png", style = "width: 550px; height: 1900px">
+<img src="../../../assets/images/RWA/CN_NUTS_C_WH2_ridge_adm1.png", style = "width: 550px; height: 400px">
 
-<img src="../../../assets/images/RWA/CN_NUTS_C_WH2_ridge_diff_adm1.png", style = "width: 550px; height: 1900px">
+<img src="../../../assets/images/RWA/CN_NUTS_C_WH2_ridge_diff_adm1.png", style = "width: 550px; height: 400px">
 
 </div>
 <div> </div>

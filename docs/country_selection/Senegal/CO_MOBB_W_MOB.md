@@ -23,9 +23,9 @@ This Indicator represents the percentage of women who own a mobile phone
 </div>
 
 <div style="display: flex">
-<img src="../../../assets/images/SEN/CO_MOBB_W_MOB_ridge_adm1.png", style = "width: 550px; height: 1900px">
+<img src="../../../assets/images/SEN/CO_MOBB_W_MOB_ridge_adm1.png", style = "width: 550px; height: 400px">
 
-<img src="../../../assets/images/SEN/CO_MOBB_W_MOB_ridge_diff_adm1.png", style = "width: 550px; height: 1900px">
+<img src="../../../assets/images/SEN/CO_MOBB_W_MOB_ridge_diff_adm1.png", style = "width: 550px; height: 400px">
 
 </div>
 <div> </div>

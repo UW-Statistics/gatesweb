@@ -23,9 +23,9 @@ This Indicator represents the percentage of women who had a live birth (or still
 </div>
 
 <div style="display: flex">
-<img src="../../../assets/images/RWA/RH_ANCN_W_N4P_ridge_adm1.png", style = "width: 550px; height: 1900px">
+<img src="../../../assets/images/RWA/RH_ANCN_W_N4P_ridge_adm1.png", style = "width: 550px; height: 400px">
 
-<img src="../../../assets/images/RWA/RH_ANCN_W_N4P_ridge_diff_adm1.png", style = "width: 550px; height: 1900px">
+<img src="../../../assets/images/RWA/RH_ANCN_W_N4P_ridge_diff_adm1.png", style = "width: 550px; height: 400px">
 
 </div>
 <div> </div>

@@ -2,9 +2,9 @@
 hide:
     - toc
 ---
-# Children who received no vaccinations
+# DTP3 Vaccination rate
 
-This Indicator represents the percentage of children 12-23 months who had received no vaccinations
+This Indicator represents the percentage of children 12-23 months who had received DPT 3 vaccination
 
 ## Prevalance map
 
@@ -13,7 +13,7 @@ This Indicator represents the percentage of children 12-23 months who had receiv
   <div style="font-size: 20px">Year 2018</div>
 </div>
 
-<iframe src="../../../assets/images/NGA/CH_VACC_C_NON_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="../../../assets/images/MOZ/CH_VACC_C_DP3_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 
@@ -23,19 +23,11 @@ This Indicator represents the percentage of children 12-23 months who had receiv
 </div>
 
 <div style="display: flex">
-<img src="../../../assets/images/NGA/CH_VACC_C_NON_ridge_adm1.png", style = "width: 550px; height: 1900px">
+<img src="../../../assets/images/MOZ/CH_VACC_C_DP3_ridge_adm1.png", style = "width: 550px; height: 400px">
 
-<img src="../../../assets/images/NGA/CH_VACC_C_NON_ridge_diff_adm1.png", style = "width: 550px; height: 1900px">
+<img src="../../../assets/images/MOZ/CH_VACC_C_DP3_ridge_diff_adm1.png", style = "width: 550px; height: 400px">
 
 </div>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
-<div> </div>
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
   <div style="font-size: 20px">Admin2 estimates in 2018</div>
@@ -43,8 +35,8 @@ This Indicator represents the percentage of children 12-23 months who had receiv
 </div>
 
 <div style="display: flex">
-<img src="../../../assets/images/NGA/CH_VACC_C_NON_ridge_adm2.png", style = "width: 550px; height: 1900px">
+<img src="../../../assets/images/MOZ/CH_VACC_C_DP3_ridge_adm2.png", style = "width: 550px; height: 1900px">
 
-<img src="../../../assets/images/NGA/CH_VACC_C_NON_ridge_diff_adm2.png", style = "width: 550px; height: 1900px">
+<img src="../../../assets/images/MOZ/CH_VACC_C_DP3_ridge_diff_adm2.png", style = "width: 550px; height: 1900px">
 
 </div>

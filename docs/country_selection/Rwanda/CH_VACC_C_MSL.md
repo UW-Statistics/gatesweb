@@ -23,9 +23,9 @@ This Indicator represents the percentage of children 12-23 months who had receiv
 </div>
 
 <div style="display: flex">
-<img src="../../../assets/images/RWA/CH_VACC_C_MSL_ridge_adm1.png", style = "width: 550px; height: 1900px">
+<img src="../../../assets/images/RWA/CH_VACC_C_MSL_ridge_adm1.png", style = "width: 550px; height: 400px">
 
-<img src="../../../assets/images/RWA/CH_VACC_C_MSL_ridge_diff_adm1.png", style = "width: 550px; height: 1900px">
+<img src="../../../assets/images/RWA/CH_VACC_C_MSL_ridge_diff_adm1.png", style = "width: 550px; height: 400px">
 
 </div>
 <div> </div>
