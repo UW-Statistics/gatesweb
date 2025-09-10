@@ -4,7 +4,7 @@ hide:
 ---
 # Children who received no vaccinations
 
-This Indicator represents the percentage of children 12-23 months who had received no vaccinations
+This Indicator represents the percentage of children 12-23 months who had not receive all 8 basic vaccinations
 
 ## Prevalance map
 
