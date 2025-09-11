@@ -13,7 +13,7 @@ This Indicator represents the percentage of live births (or stillbirths) in the 
   <div style="font-size: 20px">Year 2018</div>
 </div>
 
-<iframe src="../../../assets/images/NGA/RH_DELA_C_DHT_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="../../../assets/images/NGA/RH_DELP_C_DHT_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 
@@ -25,9 +25,9 @@ This Indicator represents the percentage of live births (or stillbirths) in the 
 ---
 
 <div style="display: flex">
-<img src="../../../assets/images/NGA/RH_DELA_C_DHT_ridge_adm1.png", style = "width: 470px; height: 1900px">
+<img src="../../../assets/images/NGA/RH_DELP_C_DHT_ridge_adm1.png", style = "width: 470px; height: 1900px">
 
-<img src="../../../assets/images/NGA/RH_DELA_C_DHT_ridge_diff_adm1.png", style = "width: 470px; height: 1900px">
+<img src="../../../assets/images/NGA/RH_DELP_C_DHT_ridge_diff_adm1.png", style = "width: 470px; height: 1900px">
 
 </div>
 
@@ -42,8 +42,8 @@ This Indicator represents the percentage of live births (or stillbirths) in the 
 ---
 
 <div style="display: flex">
-<img src="../../../assets/images/NGA/RH_DELA_C_DHT_ridge_adm2.png", style = "width: 450px; height: 1600px">
+<img src="../../../assets/images/NGA/RH_DELP_C_DHT_ridge_adm2.png", style = "width: 450px; height: 1600px">
 
-<img src="../../../assets/images/NGA/RH_DELA_C_DHT_ridge_diff_adm2.png", style = "width: 450px; height: 1600px; margin-left: 50px">
+<img src="../../../assets/images/NGA/RH_DELP_C_DHT_ridge_diff_adm2.png", style = "width: 450px; height: 1600px; margin-left: 50px">
 
 </div>
