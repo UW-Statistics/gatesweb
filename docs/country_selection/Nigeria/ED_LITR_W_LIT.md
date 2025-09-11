@@ -24,6 +24,18 @@ This Indicator represents the percentage of women who are literate
 
 <iframe src="../../../assets/images/NGA/ED_LITR_W_LIT_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
+---
+
+## Width of 90% Confidence Interval
+
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
+  <div style="font-size: 20px">Year 2013</div>
+  <div style="font-size: 20px">Year 2018</div>
+</div>
+
+<iframe src="../../../assets/images/NGA/ED_LITR_W_LIT_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+
+
 ## Ridge Plot
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
