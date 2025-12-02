@@ -4,9 +4,9 @@ hide:
 ---
 # At Least 4 Antenatal Care Visit
 
-This Indicator represents the percentage of women who had a live birth (or stillbirth) in the two years preceding the survey who had 4+ antenatal care visits
+This indicator represents the percentage of women who had a live birth  in the two years preceding the survey who had 4+ antenatal care visits
 
-## Prevalance map
+## Prevalence map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
   <div style="font-size: 20px">Baseline</div>
@@ -18,7 +18,7 @@ This Indicator represents the percentage of women who had a live birth (or still
   <div style="font-size: 12px">2022</div>
 </div>
 
-<iframe src="../../../assets/images/KEN/RH_ANCN_W_N4P_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html/KEN/RH_ANCN_W_N4P_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -34,7 +34,7 @@ This Indicator represents the percentage of women who had a live birth (or still
   <div style="font-size: 12px">2022</div>
 </div>
 
-<iframe src="../../../assets/images/KEN/RH_ANCN_W_N4P_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html/KEN/RH_ANCN_W_N4P_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 

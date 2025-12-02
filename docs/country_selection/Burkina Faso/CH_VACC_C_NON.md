@@ -4,9 +4,9 @@ hide:
 ---
 # Children who received no vaccinations
 
-This Indicator represents the percentage of children 12-23 months with no vaccinations
+This indicator represents the percentage of children 12-23 months with no vaccinations
 
-## Prevalance map
+## Prevalence map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
   <div style="font-size: 20px">Baseline</div>
@@ -18,7 +18,7 @@ This Indicator represents the percentage of children 12-23 months with no vaccin
   <div style="font-size: 13px">2021</div>
 </div>
 
-<iframe src="../../../assets/images/BFA/CH_VACC_C_NON_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html/BFA/CH_VACC_C_NON_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -34,7 +34,7 @@ This Indicator represents the percentage of children 12-23 months with no vaccin
   <div style="font-size: 13px">2021</div>
 </div>
 
-<iframe src="../../../assets/images/BFA/CH_VACC_C_NON_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html/BFA/CH_VACC_C_NON_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 
 ## Ridge Plot

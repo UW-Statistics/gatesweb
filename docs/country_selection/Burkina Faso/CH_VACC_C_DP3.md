@@ -4,9 +4,9 @@ hide:
 ---
 # DTP3 Vaccination rate
 
-This Indicator represents the percentage of children 12-23 months who had received DTP 3 vaccination
+This indicator represents the percentage of children 12-23 months who had received DTP 3 vaccination
 
-## Prevalance map
+## Prevalence map
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
   <div style="font-size: 20px">Baseline</div>
   <div style="font-size: 20px">Latest</div>
@@ -17,7 +17,7 @@ This Indicator represents the percentage of children 12-23 months who had receiv
   <div style="font-size: 13px">2021</div>
 </div>
 
-<iframe src="../../../assets/images/BFA/CH_VACC_C_DP3_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html/BFA/CH_VACC_C_DP3_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -33,7 +33,7 @@ This Indicator represents the percentage of children 12-23 months who had receiv
   <div style="font-size: 13px">2021</div>
 </div>
 
-<iframe src="../../../assets/images/BFA/CH_VACC_C_DP3_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html/BFA/CH_VACC_C_DP3_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 

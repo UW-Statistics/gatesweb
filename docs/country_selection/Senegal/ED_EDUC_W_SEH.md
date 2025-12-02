@@ -4,8 +4,8 @@ hide:
 ---
 # Percent of Women With Secondary or Higher Education
 
-This Indicator represents the percentage of women who have received secondary or higher education
-## Prevalance map
+This indicator represents the percentage of women who have received secondary or higher education
+## Prevalence map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
   <div style="font-size: 20px">Baseline</div>
@@ -17,7 +17,7 @@ This Indicator represents the percentage of women who have received secondary or
   <div style="font-size: 12px">2023</div>
 </div>
 
-<iframe src="../../../assets/images/SEN/ED_EDUC_W_SEH_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html2/SEN/ED_EDUC_W_SEH_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -33,7 +33,7 @@ This Indicator represents the percentage of women who have received secondary or
   <div style="font-size: 12px">2023</div>
 </div>
 
-<iframe src="../../../assets/images/SEN/ED_EDUC_W_SEH_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="https://lucyxuu.github.io/gatesweb_html2/SEN/ED_EDUC_W_SEH_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 
 ## Ridge Plot
