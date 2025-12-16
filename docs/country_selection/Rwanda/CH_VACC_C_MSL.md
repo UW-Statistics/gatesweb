@@ -4,9 +4,9 @@ hide:
 ---
 # MCV 1 Vaccine Coverage
 
-This indicator represents the percentage of children 12-23 months who had received Measles vaccination
+This Indicator represents the percentage of children 12-23 months who had received Measles vaccination
 
-## Prevalence map
+## Prevalance map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
   <div style="font-size: 20px">Baseline</div>
@@ -18,7 +18,7 @@ This indicator represents the percentage of children 12-23 months who had receiv
   <div style="font-size: 12px">2019</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html2/RWA/CH_VACC_C_MSL_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="../../../assets/images/RWA/CH_VACC_C_MSL_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -34,7 +34,7 @@ This indicator represents the percentage of children 12-23 months who had receiv
   <div style="font-size: 12px">2019</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html2/RWA/CH_VACC_C_MSL_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="../../../assets/images/RWA/CH_VACC_C_MSL_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 

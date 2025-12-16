@@ -4,9 +4,9 @@ hide:
 ---
 # Skill Birth Attendance
 
-This indicator represents the percentage of live births  in the two years preceding the survey assisted by a skilled provider. Skilled provider usually includes doctor, nurse, midwife and auxiliary nurse or midwife, unless specified otherwise for a specific survey.
+This Indicator represents the percentage of live births (or stillbirths) in the two years preceding the survey assisted by a skilled provider. Skilled provider includes doctor, nurse, midwife and auxiliary nurse or midwife.
 
-## Prevalence map
+## Prevalance map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
   <div style="font-size: 20px">Baseline</div>
@@ -18,7 +18,7 @@ This indicator represents the percentage of live births  in the two years preced
   <div style="font-size: 12px">2022</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/MOZ/RH_DELA_C_SKP_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="../../../assets/images/MOZ/RH_DELA_C_SKP_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -34,7 +34,7 @@ This indicator represents the percentage of live births  in the two years preced
   <div style="font-size: 12px">2022</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/MOZ/RH_DELA_C_SKP_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="../../../assets/images/MOZ/RH_DELA_C_SKP_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 
 ## Ridge Plot

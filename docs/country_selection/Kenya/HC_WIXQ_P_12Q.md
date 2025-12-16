@@ -4,9 +4,9 @@ hide:
 ---
 # Percent of Population in Lowest Two Wealth Quintiles
 
-This indicator represents the percent of population in lowest two wealth quintiles
+This Indicator represents the percent of population in lowest two wealth quintiles
 
-## Prevalence map
+## Prevalance map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
   <div style="font-size: 20px">Baseline</div>
@@ -18,7 +18,7 @@ This indicator represents the percent of population in lowest two wealth quintil
   <div style="font-size: 12px">2022</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/KEN/HC_WIXQ_P_12Q_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="../../../assets/images/KEN/HC_WIXQ_P_12Q_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -34,7 +34,7 @@ This indicator represents the percent of population in lowest two wealth quintil
   <div style="font-size: 12px">2022</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/KEN/HC_WIXQ_P_12Q_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="../../../assets/images/KEN/HC_WIXQ_P_12Q_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 ## Ridge Plot
 

@@ -4,9 +4,9 @@ hide:
 ---
 # Modern Contraceptive Prevalence Rate
 
-This indicator represents the percentage of currently married or in union women currently using any modern method of contraception.
+This Indicator represents the percentage of currently married or in union women currently using any modern method of contraception.
 
-## Prevalence map
+## Prevalance map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
   <div style="font-size: 20px">Baseline</div>
@@ -18,7 +18,7 @@ This indicator represents the percentage of currently married or in union women 
   <div style="font-size: 12px">2023</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html2/SEN/FP_CUSM_W_MOD_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="../../../assets/images/SEN/FP_CUSM_W_MOD_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -34,7 +34,7 @@ This indicator represents the percentage of currently married or in union women 
   <div style="font-size: 12px">2023</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html2/SEN/FP_CUSM_W_MOD_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="../../../assets/images/SEN/FP_CUSM_W_MOD_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 
 ## Ridge Plot
