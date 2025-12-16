@@ -20,12 +20,6 @@ jobs:
       cancel-in-progress: false
     
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 1  # avoid fetching all history
-        lfs: true  # Check out Git LFS files
-   
     - name: Free up space before build
       run: |
         echo "Disk usage before cleanup:"
@@ -33,6 +27,11 @@ jobs:
         rm -rf ~/.cache/pip ~/.npm ~/.cache
         echo "Disk usage after cleanup:"
         df -h
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 1  # avoid fetching all history
+        lfs: true  # Check out Git LFS files
 
     - name: Set up Python
       uses: actions/setup-python@v4
