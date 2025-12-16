@@ -4,9 +4,9 @@ hide:
 ---
 # Stunting rate
 
-This indicator represents the percentage of children stunted (below -2 SD of height for age according to the WHO standard)
+This Indicator represents the percentage of children stunted (below -2 SD of height for age according to the WHO standard)
 
-## Prevalence map
+## Prevalance map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
   <div style="font-size: 20px">Baseline</div>
@@ -19,7 +19,7 @@ This indicator represents the percentage of children stunted (below -2 SD of hei
   <div style="font-size: 12px">2019</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/ETH/CN_NUTS_C_HA2_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="../../../assets/images/ETH/CN_NUTS_C_HA2_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -36,7 +36,7 @@ This indicator represents the percentage of children stunted (below -2 SD of hei
   <div style="font-size: 12px">2019</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html/ETH/CN_NUTS_C_HA2_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="../../../assets/images/ETH/CN_NUTS_C_HA2_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 
 ## Ridge Plot

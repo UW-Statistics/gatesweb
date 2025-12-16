@@ -4,8 +4,8 @@ hide:
 ---
 # Wasting Rate
 
-This indicator represents the percentage of children wasted (below -2 SD of weight for height according to the WHO standard)
-## Prevalence map
+This Indicator represents the percentage of children wasted (below -2 SD of weight for height according to the WHO standard)
+## Prevalance map
 
 <div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
   <div style="font-size: 20px">Baseline</div>
@@ -17,7 +17,7 @@ This indicator represents the percentage of children wasted (below -2 SD of weig
   <div style="font-size: 12px">2023</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html2/SEN/CN_NUTS_C_WH2_detail.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="../../../assets/images/SEN/CN_NUTS_C_WH2_detail.html" style = "width: 2000px; height: 820px"></iframe>
 
 ---
 
@@ -33,7 +33,7 @@ This indicator represents the percentage of children wasted (below -2 SD of weig
   <div style="font-size: 12px">2023</div>
 </div>
 
-<iframe src="https://lucyxuu.github.io/gatesweb_html2/SEN/CN_NUTS_C_WH2_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
+<iframe src="../../../assets/images/SEN/CN_NUTS_C_WH2_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
 
 ## Ridge Plot
