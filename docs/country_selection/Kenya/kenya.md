@@ -13,6 +13,10 @@ hide:
   <a href="https://github.com/UW-Statistics/gatesweb/releases/download/v2025.11.20/KEN_combined_estimates.csv" download>📊 Download Estimates as CSV</a>
 </div>
 
+<div style="text-align:right; margin-top:-20px; margin-bottom:30px">
+  <a href="https://rsc.stat.washington.edu/app_direct/indicatorcomparison/?country=Kenya" target="_blank">📈 View Indicator Comparison Plots</a>
+</div>
+
 <div style="width: 50%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold; margin-left: 210px">
   <div>Counties</div>
   <div>Sub-counties</div>
