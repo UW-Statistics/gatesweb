@@ -7,15 +7,17 @@ hide:
 This indicator represents the percentage of children 12-23 months who had received DTP 3 vaccination
 
 ## Prevalence map
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
-  <div style="font-size: 20px">Baseline</div>
-  <div style="font-size: 20px">Latest</div>
+
+<div style="width: 95%; display:grid; grid-template-columns: repeat(3, 1fr); gap: 0px; text-align:center; font-weight:bold;">
+  <div style="font-size: 18px">Baseline</div>
+  <div style="font-size: 18px">Midpoint</div>
+  <div style="font-size: 18px">Latest</div>
 </div>
 
-
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
-  <div style="font-size: 12px">2019</div>
-  <div style="font-size: 12px">2024</div>
+<div style="width: 95%; display:grid; grid-template-columns: repeat(3, 1fr); gap: 0px; text-align:center;">
+  <div style="font-size: 12px">(2016)</div>
+  <div style="font-size: 12px">(2019)</div>
+  <div style="font-size: 12px">(2024)</div>
 </div>
 
 <iframe src="https://uw-statistics.github.io/gatesweb_html1/ETH/CH_VACC_C_DP3_detail.html" style = "width: 2000px; height: 820px"></iframe>
@@ -24,24 +26,41 @@ This indicator represents the percentage of children 12-23 months who had receiv
 
 ## Width of 90% Confidence Interval
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;">
-  <div style="font-size: 20px">Baseline</div>
-  <div style="font-size: 20px">Latest</div>
+<div style="width: 95%; display:grid; grid-template-columns: repeat(3, 1fr); gap: 0px; text-align:center; font-weight:bold;">
+  <div style="font-size: 18px">Baseline</div>
+  <div style="font-size: 18px">Midpoint</div>
+  <div style="font-size: 18px">Latest</div>
 </div>
 
-
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
-  <div style="font-size: 12px">2019</div>
-  <div style="font-size: 12px">2024</div>
+<div style="width: 95%; display:grid; grid-template-columns: repeat(3, 1fr); gap: 0px; text-align:center;">
+  <div style="font-size: 12px">(2016)</div>
+  <div style="font-size: 12px">(2019)</div>
+  <div style="font-size: 12px">(2024)</div>
 </div>
 
 <iframe src="https://uw-statistics.github.io/gatesweb_html1/ETH/CH_VACC_C_DP3_detail_ci.html" style = "width: 2000px; height: 820px"></iframe>
 
+
+## Trends over time
+
+One panel per region. Teal shows the region estimate at each survey; red shows the national estimate. Error bars are 90% credible intervals. Points are joined for readability; there is no estimate between surveys.
+
+<img src="../../../assets/images/ETH/CH_VACC_C_DP3_trend_adm1.png" style="width: 95%">
+
+---
+
 ## Ridge Plot
 
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Latest regions estimates</div>
-  <div style="font-size: 20px">Regions change since baseline</div>
+<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center;">
+  <div>
+    <div style="font-size: 20px; font-weight:bold">2024 regions estimates</div>
+  </div>
+  <div>
+    <div style="font-size: 20px; font-weight:bold">Regions change since previous survey years</div>
+    <div style="font-size: 13px; color:#555; margin-top:6px; line-height:1.4">
+      Posterior change to 2024 from each earlier survey, one colour scale per period. Values to the right of zero are increases.
+    </div>
+  </div>
 </div>
 
 ---
@@ -53,19 +72,3 @@ This indicator represents the percentage of children 12-23 months who had receiv
 
 </div>
 
-<hr style="height: 1px; background-color: #8c8c8cff; border: none; margin: 20px 0; margin-bottom: 100px; margin-top: 70px;">
-
-
-<div style="width: 95%; display:grid; grid-template-columns: repeat(2, 1fr); gap: 0px; text-align:center; font-weight:bold;x">
-  <div style="font-size: 20px">Latest zones estimates</div>
-  <div style="font-size: 20px">Zones change since baseline</div>
-</div>
-
----
-
-<div style="display: flex">
-<img src="../../../assets/images/ETH/CH_VACC_C_DP3_ridge_adm2.png", style = "width: 47%">
-
-<img src="../../../assets/images/ETH/CH_VACC_C_DP3_ridge_diff_adm2.png", style = "width: 47%;margin-left: 50px">
-
-</div>
