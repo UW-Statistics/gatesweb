@@ -43,3 +43,9 @@ This indicator represents the percentage of live births  in the two years preced
 
 ### Place of Delivery: Health Facility:
 This indicator represents the percentage of live births  in the five years preceding the survey delivered at a health facility
+
+### Neonatal Mortality Rate:
+This indicator represents the percentage of live births in the five years preceding the survey that died within the first month of life
+
+### Under-5 Mortality Rate:
+This indicator represents the probability of dying before the fifth birthday, based on births and deaths in the five years preceding the survey. It is calculated from age-specific death rates (in age groups 0, 1-11, 12-23, 24-35, 36-47 and 48-59 months) among children exposed to the risk of dying during that period.
