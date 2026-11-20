@@ -20,6 +20,9 @@ This indicator represents the percentage of children wasted (below -2 SD of weig
 ### Children Under 5 Who Slept Under an ITN:
 This indicator represents the percentage of children under age five who slept under an insecticide treated net (ITN) the night before the survey
 
+### Children Under 5 With Diarrhea Treatment:
+This indicator represents the percentage of children under age five with diarrhea in the two weeks preceding the survey who received oral rehydration therapy (ORT), either oral rehydration salts (ORS) or recommended home fluids (RHF)
+
 ### Percent of women who own a mobile phone:
 This indicator represents the percentage of women who own a mobile phone
 
@@ -43,6 +46,18 @@ This indicator represents the percentage of live births  in the two years preced
 
 ### Place of Delivery: Health Facility:
 This indicator represents the percentage of live births  in the five years preceding the survey delivered at a health facility
+
+### Place of Delivery: Public Facility:
+This indicator represents the percentage of live births in the five years preceding the survey delivered at a public sector health facility
+
+### Place of Delivery: Private Facility:
+This indicator represents the percentage of live births in the five years preceding the survey delivered at a private sector health facility
+
+### Place of Delivery: At Home:
+This indicator represents the percentage of live births in the five years preceding the survey delivered at home
+
+### Newborn Postnatal Check-up:
+This indicator represents the percentage of last live births in the two years preceding the survey who received a postnatal check-up within the first two days after birth
 
 ### Neonatal Mortality Rate:
 This indicator represents the percentage of live births in the five years preceding the survey that died within the first month of life
